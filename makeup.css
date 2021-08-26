@@ -7,6 +7,10 @@
     100%{background-color: #f8cfca ;}
 }
 
+#navigationbar a:hover{
+    color: #fd6352
+}
+
 .brand {
     color: #ff9486;
     text-align: center;
